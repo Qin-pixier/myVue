@@ -1,0 +1,19 @@
+{
+  "name": "1105vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/cli": "^4.5.15"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.3",
+    "sass-loader": "^7.3.1"
+  }
+}
