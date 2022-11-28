@@ -14,7 +14,7 @@
                 </el-form-item>
                 <el-form-item>
                     <el-button type="primary" @click="login('form')">登录</el-button>    
-                
+                    <el-button type="primary" @click="login('form')">登录</el-button>  
                 </el-form-item>
             </el-form>
         </el-card>
